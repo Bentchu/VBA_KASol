@@ -1,3 +1,3 @@
 # VBAKASol
-Curso VBA disponível online na VW do B
-  Arquivos que utilizei para aprender VBA em Excel da KASoluions
+Curso VBA disponível online na VW do B.
+  Conteudo - Arquivos que utilizei para aprender VBA em Excel da KASoluions
